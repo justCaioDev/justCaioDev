@@ -1,4 +1,4 @@
-<h1 align='center'>Seja muito Bem-vindo!</h1>
+<h1 align='center'>Seja muito Bem-vindo(a)!</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justCaioDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
