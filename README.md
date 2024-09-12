@@ -14,12 +14,15 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/caiio/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-8C1F28?style=for-the-badge&logo=linkedin&logoColor=F2F2F2"</a>
+<a href="https://www.linkedin.com/in/caiio/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F2F2F2"</a>
 </div> 
  
 ### Main skills:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![HTML5 Badge](https://img.shields.io/badge/HTML5-0D1117?logo=html5&logoColor=E34F26&style=for-the-badge)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-0D1117?logo=css3&logoColor=1572B6&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-0D1117?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge)
 
 
  
@@ -27,6 +30,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-0D1117?logo=leetcode&logoColor=FFA116&style=for-the-badge)
+![Frontend Mentor Badge](https://img.shields.io/badge/Frontend%20Mentor-0D1117?logo=frontendmentor&logoColor=3F54A3&style=for-the-badge)
+![Node.js Badge](https://img.shields.io/badge/Node.js-0D1117?logo=nodedotjs&logoColor=5FA04E&style=for-the-badge)
  
   
 ### Studying in this moment:
